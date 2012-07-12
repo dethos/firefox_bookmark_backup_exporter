@@ -1,4 +1,4 @@
-The reason i made this little script can be found in [this post](hhttp://www.ovalerio.net/content/node/45)
+The reason i made this little script can be found in [this post](http://www.ovalerio.net/content/node/45)
 
 How to use it
 =============
